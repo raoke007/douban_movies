@@ -1,0 +1,12 @@
+@import '../movie/movie-template.wxss';
+
+.single-view-container {
+  float: left;
+  margin-bottom: 40rpx;
+}
+
+.grid-container {
+  /* 设置高度后才能使scroll-view下拉发挥作用 */
+  height: 1300rpx;
+  margin: 40rpx 0rpx 40rpx 6rpx;
+}

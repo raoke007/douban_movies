@@ -1,0 +1,13 @@
+@import "post-item/post-item-template.wxss"; /**相对路径、绝对路径都可以*/
+
+/* swiper */
+swiper {
+  width: 750rpx;
+  height: 600rpx;
+}
+
+swiper image {
+  width: 750rpx;
+  height: 600rpx;
+}
+
